@@ -124,6 +124,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.gz
+*.01
 data/cifar-10-batches-py/batches.meta
 data/cifar-10-batches-py/data_batch_1
 data/cifar-10-batches-py/data_batch_2
@@ -135,3 +136,4 @@ data/cifar-10-batches-py/test_batch
 runs/Jan15_11-23-59_DESKTOP-0CQ9C9M/events.out.tfevents.1579083845.DESKTOP-0CQ9C9M.3144.0
 runs/Jan15_11-24-50_DESKTOP-0CQ9C9M/events.out.tfevents.1579083890.DESKTOP-0CQ9C9M.3144.1
 runs/Jan15_11-24-55_DESKTOP-0CQ9C9M/events.out.tfevents.1579083895.DESKTOP-0CQ9C9M.3144.2
+runs/
